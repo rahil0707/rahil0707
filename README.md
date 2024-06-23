@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rahil0707
+- 👀 I’m interested in being a full stack software developer full time.
+- 🌱 I’m currently learning how to build and implement web applications using React as the frontend and Python Django framework for the back end.
+- 💞️ I’m looking to collaborate on any full stack web apps, i love building them.
+- 📫 How to reach me: throught my email, rahilhussain10@gmail.com 
+- 😄 Pronouns: He/Him
