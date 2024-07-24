@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rahil0707
-- 👀 I’m interested in being a full stack software developer full time.
-- 🌱 I’m currently learning how to build and implement web applications using React as the frontend and Python Django framework for the back end.
-- 💞️ I’m looking to collaborate on any full stack web apps, i love building them.
-- 📫 How to reach me: throught my email, rahilhussain10@gmail.com 
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Mohammed Rahil Hussain
+- 👀 I’m interested in being a software engineer full time. More specifically, something within the realms of full stack development, or front/back end development, or AI/ML.
+- 🌱 I’m currently learning learning about and experimenting with multiple in demand modern technoogies (tech stacks) such as Django, Flask, Springboot, React, Node.js, etc.
+- 💞️ I’m looking to collaborate on any full stack web apps or backend or frontend, or even machine learning models, i love building them.
+- 📫 How to reach me: throught my email, rahilhussain10@gmail.com
